@@ -1,0 +1,12 @@
+{
+   "data": {
+      "ocr": ""
+   },
+   "predictions": [
+      {
+         "model_version": "bbox_source",
+         "result": [],
+         "score": 0.9
+      }
+   ]
+}
